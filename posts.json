@@ -1,6 +1,407 @@
 {
 
   "allmovie" : [
+    
+
+{
+
+  "cover" : "https://lh4.googleusercontent.com/jmiGC7afRFqw2Yg4JFUHmO8K_UU1iqgpuqkhpHPWMLEcLLl35iQfyzmS4L7PaNctQ1TerSXCd-f7fBWv0aQ=w1920-h1080-pd-k",
+
+  "length" : "9:03",
+
+  "title" : "စိတ်အလိုမကျသောအဘိုးအို",
+
+   "genre" : "",
+
+  "video" : "https://drive.google.com/file/d/1nSiPpOXgf_w11FHA_cGXSCAmTbwSJFaB/view"
+
+},
+
+{
+
+  "cover" : "https://lh6.googleusercontent.com/-i_D0ZyvFmOfAP3WkCDO2v8ayRmQ9EdjbRT6w6H3GhVUB6z3yvyRCY3BktGEcMUvL0behFgEYtAV00wYCPM=w1280-h720-pd-k",
+
+  "length" : "13:50",
+
+  "title" : "စိတ်ဓာတ်တည်ကြည်ခိုင်မာတဲ့...",
+
+   "genre" : "",
+
+  "video" : "https://drive.google.com/file/d/14NfinE1iXkhEmYdiMkl3NeR0kiprem5h/view"
+
+},
+
+{
+
+  "cover" : "https://lh6.googleusercontent.com/5yksafPmpdlFzglSvl5IGq5x0Y0FYXPY20I7qpBEMUDkEmJg2ybtfmIm1H16zeedIypKsgRbA1Y5kgD5l0w=w1280-h720-pd-k",
+
+  "length" : "8:13",
+
+  "title" : "စိတ်ကောင်းရှိတဲ့နတ်ဆိုးမလေး",
+
+   "genre" : "",
+
+  "video" : "https://drive.google.com/file/d/1jiOf6qoKM_G2BX69J4ah2mI1aJRWax6j/view"
+
+},
+
+{
+
+  "cover" : "https://lh6.googleusercontent.com/NJThASEHcgnHb3SBPjH-aTeNleRj1Ay4gaLIEn6iHwn4q2fTCXoq2f6V-VNIt5IB22xWOSxb35tGujS4QHA=w1280-h720-pd-k",
+
+  "length" : "6:55",
+
+  "title" : "စိတ်ကြီးဝင်သောကြီးမိုက်",
+
+   "genre" : "",
+
+  "video" : "https://drive.google.com/file/d/1a9HhKebt_4TcsWVg4ERS7QcFRMhoqrXQ/view"
+
+},
+{
+
+  "cover" : "https://lh3.googleusercontent.com/ZaLPMCW91mpJr37kWr6ykNf3jL7GnNsBjU9Q-6lfGzbKJQ5rbC8jq2ZRiOwgTHzbqNhFkT2w3owBOQ05vsA=w1280-h720-pd-k",
+
+  "length" : "10:46",
+
+  "title" : "စနှိုးဝိုက်နှင့် နှင်းဆီပင်",
+
+   "genre" : "",
+
+  "video" : "https://drive.google.com/file/d/1ahj-pb3PU3dWoYM2PX2BZyfBmZ8AL8F3/view"
+
+},
+
+{
+
+  "cover" : "https://lh3.googleusercontent.com/T4MjetVyXiOGRZ2Je3JsHGyqvS-m_oAeU23V7vshBuESu4f61L6YblrHUpY7NwWe5DbmJAr8m5Ia_KjDk_o=w1280-h720-pd-k",
+
+  "length" : "11:11",
+
+  "title" : "စင်ဒရဲလား ",
+
+   "genre" : "",
+
+  "video" : "https://drive.google.com/file/d/1Jz4uKk_n4pExQA_yQg3XEXGcRY-BOzgY/view"
+
+},
+
+{
+
+  "cover" : "https://lh5.googleusercontent.com/QuDr_IlWv0UbVyh14usj_tAJiw-jU8XYwc78B6BKO4aPmzYH8rRkBE7AxFccSUMG8Xy_F0vKN62m09SrHiM=w1280-h720-pd-k",
+
+  "length" : "15:32",
+
+  "title" : "ငပေါလေးဂျက်",
+
+   "genre" : "",
+
+  "video" : "https://drive.google.com/file/d/1Cl_dj_IvgsrMxBXglOPniZLnWnzDmGzI/view"
+
+},
+
+{
+
+  "cover" : "https://lh6.googleusercontent.com/2c9uEy86Tl6y2ngkqr_4PsIxnnYPgwSt9AQm0nx_hDQ5skyDCgZN-7xe1b8H-w9zduHSsyE2b9bl2o1r-uw=w1280-h720-pd-k",
+
+  "length" : "11:33",
+
+  "title" : "ငန်းကျောင်းသူလေးပုံပြင်",
+
+   "genre" : "",
+
+  "video" : "https://drive.google.com/file/d/1Tppuo0MVyGNvRi5jWSqa_IOhgansAHIN/view"
+
+},
+
+{
+
+  "cover" : "https://lh6.googleusercontent.com/vZVcqldxzxgoPO2AYBNx8SCkW_SkWjIRt0T6Xr4AGmm7uX3unEWRSkNoaEmJSZYk82swvADOTl4N5WDYEg8=w1280-h720-pd-k",
+
+  "length" : "11:40",
+
+  "title" : "ဂုဏ်မောက်သောနှင်းဆီ",
+
+   "genre" : "",
+
+  "video" : "https://drive.google.com/file/d/115tKVwQtvRFfBGVqfs_RwScDRtyPI2QT/view"
+
+},{
+
+  "cover" : "https://lh6.googleusercontent.com/5A_k5imd8sdlftRGNZar270DbaemsrgUsUHxaNs-M8zw9OZS9-Lx2x6Oc1a88Qto-g778JfQ-HqtqKEYRbQ=w1280-h720-pd-k",
+
+  "length" : "12:30",
+
+  "title" : "ဂီတပညာရှင်(၃)ယောက် ",
+
+   "genre" : "",
+
+  "video" : "https://drive.google.com/file/d/1oQJ7MgSfHMf-5jIC0wndcMU8sMAeTjnb/view"
+
+},
+
+{
+
+  "cover" : "https://lh3.googleusercontent.com/Mi0gIoQZo2HH1ST5SpSfFtTOhCPDfSSKSzc0ongL5keJHW4G3YY_sutDi2FuDGyiaypXmymKU1JPwkkIodM=w1280-h720-pd-k",
+
+  "length" : "15:11",
+
+  "title" : "ဂါလီဗာရဲ့စွန့်စားခန်းများ",
+
+   "genre" : "",
+
+  "video" : "https://drive.google.com/file/d/1RHFrCy3YYLIkx8OA6g-6JO614kRovu7-/view"
+
+},
+
+{
+
+  "cover" : "https://lh3.googleusercontent.com/3bu9FN_aoC_Fa2e9vyEOvypr-uO_L9ZX5uPFR--9FR6gc2gPgNhRr3yqfAycP2XHxBMF3wXW-UbavSgUX5w=w1280-h720-pd-k",
+
+  "length" : "11:48",
+
+  "title" : "ဂျက်နဲ့ပဲပင်",
+
+   "genre" : "",
+
+  "video" : "https://drive.google.com/file/d/153xQPAz8e9YrLf_016NFq7sm_d6hhKAW/view"
+
+},
+
+{
+
+  "cover" : "https://lh4.googleusercontent.com/TsSyML3RL9en_d1GrRwxus16Zy2f1a3-kvWkIlOu2Qolv-QJJq4eYDHswST-pQp9aknXk9sERFEl8AWyuF8=w1280-h720-pd-k",
+
+  "length" : "9:02",
+
+  "title" : "ခွေးအိုကြီးဆူလတန်ရဲ့ပုံပြင်",
+
+   "genre" : "",
+
+  "video" : "https://drive.google.com/file/d/1CekQu_tSsoHqvCZIwJfWyEQFswSmfnKV/view"
+
+},
+
+{
+
+  "cover" : "https://lh4.googleusercontent.com/rPopQHlvzH2eE9FeNjc6bUUu47wMhrmbq81W07PtHyB0lcV_OweYAa1A4OzvQnrK6LL8oUMpE_l7k4jw5Gg=w1280-h720-pd-k",
+
+  "length" : "15:53",
+
+  "title" : "ခရီးသွားဖော်ကြီး",
+
+   "genre" : "",
+
+  "video" : "https://drive.google.com/file/d/1yqNCz8QXqq5qjP0x8NSAGizWziM7kU2N/view"
+
+},
+{
+
+  "cover" : "https://lh3.googleusercontent.com/mTeaYP4u94F0qraya7hXfubR0h2gYSbMGhMPE3uFt5MZk2VcSY-f8wR3V_5Jcp2KygX0qzgNZihgi6FsIPM=w1280-h720-pd-k",
+
+  "length" : "16:54",
+
+  "title" : "ခရီးသွား(၂)ယောက်",
+
+   "genre" : "",
+
+  "video" : "https://drive.google.com/file/d/1klYHCFWmeT3r-2c-EqneF4QxcMwXRisF/view"
+
+},
+
+{
+
+  "cover" : "https://lh5.googleusercontent.com/93NCord2-fr3zKPsV9PIGUcpZd4XyAQnMDoYohlF3UPP6BJts0lJ8ljSG6zrS6cd0-msXf0kecCxg2L7kOo=w1280-h720-pd-k",
+
+  "length" : "14:51",
+
+  "title" : "ချုံပုတ်ထဲက ကပ်စေးနှဲ ",
+
+   "genre" : "",
+
+  "video" : "https://drive.google.com/file/d/14H5A8qe5T-ZvSA2GUYAy-VR7WNqfJl2m/view"
+
+},
+
+{
+
+  "cover" : "https://lh3.googleusercontent.com/8syRkMPZu0TYw4PZD4-IK9c03OJvT-SjhPNdVZ7x8lJffj_dckX095ko1oFZTzhkfGb9epho7ony1iO0Ct4=w1280-h720-pd-k",
+
+  "length" : "13:56",
+
+  "title" : "ချို့ယွင်းချက်မရှိသောမင်းသားလေး ",
+
+   "genre" : "",
+
+  "video" : "https://drive.google.com/file/d/1DwAyIj_KeAwxMFsgUe0JKe2ktp3nQWQn/view"
+
+},
+
+{
+
+  "cover" : "https://lh5.googleusercontent.com/i23uwJnhHmmTtxtFeCd1ftt2bC6llj1BHugLJCe3t-dJjQ6O8nApmZR2-bdtXnavVfMj93ZgJhGFg8CeVUc=w1280-h720-pd-k",
+
+  "length" : "8:12",
+
+  "title" : " ချယ်ရီပင်ကြီးနဲ့ခရုငယ်",
+
+   "genre" : "",
+
+  "video" : "https://drive.google.com/file/d/1pE5nvU7cNTc9wy8LVQAScHWuESkPiypc/view"
+
+},
+
+{
+
+  "cover" : "https://lh6.googleusercontent.com/i3nKPlPg97KqsaujRzdAAmGVR5ZQRVsCtgPAa0dCAw5qxjqf8pfxDaBrL-VvSeh_cZqAKHuLbSjQu_WKGbg=w1280-h720-pd-k",
+
+  "length" : "4:24",
+
+  "title" : "ကိုဖိုးကြားနဲ့ ကျွဲလေးကောင်",
+
+   "genre" : "",
+
+  "video" : "https://drive.google.com/file/d/1RVx8oeGHO0kh3ml6xxQhMX4vwFcVwzaO/view"
+
+},{
+
+  "cover" : "https://lh5.googleusercontent.com/ZkCNBfqf5hAMJXZT00fVH7CVzEK48zk1T32f9KhmVYNIUn_rLeLWJs34fjYDuiN_GEcaQPuq1bzAJDdEtQQ=w1280-h720-pd-k",
+
+  "length" : "57:00",
+
+  "title" : "ကလေးများအတွက်အဘိုး‌ချော့တေး",
+
+   "genre" : "",
+
+  "video" : "https://drive.google.com/file/d/1xUNFUAIiVSZNziYkirflvdpVNXG3Jpyi/view"
+
+},
+
+{
+
+  "cover" : "https://lh6.googleusercontent.com/fo3N2s1Nyb0TACNQHIKAqTz0v05VKLq3JiuRcCb3IxT74k4Qqf2-xDzwHy-JXDBkrW-nwzBlD08qpiMCeV4=w1280-h720-pd-k",
+
+  "length" : "16:05",
+
+  "title" : "ကြောင်ကိုဘယ်သူခြူဆွဲ",
+
+   "genre" : "",
+
+  "video" : "https://drive.google.com/file/d/1ItLgdmSQ6_DPjSYPNYhS_pRwif63BVW7/view"
+
+},
+
+{
+
+  "cover" : "https://lh5.googleusercontent.com/w1VgK8TjEqVrxYfulWOPZIngsFz2D7Pb2rKCu9Plvb70DeZlrGZjkilAYfFbgxE4lGTeXCPBYhahpEUq-Yc=w1280-h720-pd-k",
+
+  "length" : "7:42",
+
+  "title" : "ကြိုးကြာနဲ့ဂဏာန်း",
+
+   "genre" : "",
+
+  "video" : "https://drive.google.com/file/d/1SI7Jq04s3TMzGygriNEb5VI-XEZReJs8/view"
+
+},
+
+{
+
+  "cover" : "https://lh6.googleusercontent.com/_Qz9vqyIay6yS-hYLqzG_haDgQhKRczpqP7EZBwvkHpwHhIb9cMVl2zG0K1HaCn5dxJVdm8n9BeHsuaOSZU=w1280-h720-pd-k",
+
+  "length" : "13:15",
+
+  "title" : "ကြွက်မင်းသမီးလေး",
+
+   "genre" : "",
+
+  "video" : "https://drive.google.com/file/d/193KXgpCCEZce837MKIag2MJHYOLZiHbZ/view"
+
+},
+
+{
+
+  "cover" : "https://lh6.googleusercontent.com/1G8c8F_eL_w0UVTfRkWZBVXKQT8_rL_AIuPI_oVAkvldPoGAlm-EF3EgO3NfjArhnGjS__iq46M6SLUiMvs=w1280-h720-pd-k",
+
+  "length" : "18:10",
+
+  "title" : "ကျေးဇူးသိတတ်တဲ့မင်းသားလေး",
+
+   "genre" : "",
+
+  "video" : "https://drive.google.com/file/d/1bs9NI4MRF5fSWmtjH_vU4UyK4wgcFK96/view"
+
+},
+{
+
+  "cover" : "https://lh3.googleusercontent.com/4iHhIhs1mkVaQa7n3bfwEr-BslwCmXahO03JhwEbmE_1FyhcJktXxAV5v9WtnGfUvb5skw0jvcvutJtFxP4=w1280-h720-pd-k",
+
+  "length" : "13:31",
+
+  "title" : "ကျီးကန်း(၇)ကောင်",
+
+   "genre" : "",
+
+  "video" : "https://drive.google.com/file/d/1Xkx7bHppaZEfHmtVYso_qKuV6UAYeu7x/view"
+
+},
+
+{
+
+  "cover" : "https://lh3.googleusercontent.com/t50ESxHvfSSKxAUZr_vcQZ3ImsbnTcG8r1HsLNKu_V0C7s-YE85_3QjaY3_vqAD-TafhUY1kwJ3_Uyf8oD4=w1280-h720-pd-k",
+
+  "length" : "11:20",
+
+  "title" : "ကဗျာဆရာနှင့်မင်းသမီးလေး ",
+
+   "genre" : "",
+
+  "video" : "https://drive.google.com/file/d/1gHJcVYxKTtjKfFK4zLbRqpyO2u_7BeWu/view"
+
+},
+
+{
+
+  "cover" : "https://lh6.googleusercontent.com/krYcMhe-LRVuRItuzI-zHY383pukCLuiWEz_JBtI6u3fI8m5Xrcf1SQl5Bw6tyrSj9r_tD-PxSTJQcB6lJY=w1280-h720-pd-k",
+
+  "length" :"10:33",
+
+  "title" : " ကန္တာရထဲကရေ",
+
+   "genre" : "",
+
+  "video" : "https://drive.google.com/file/d/1o0vRYReYL6qA0Nkie9IoSJlijgT0jWOQ/view"
+
+},
+
+{
+
+  "cover" : "https://lh6.googleusercontent.com/1mU2q0_9-VQdVpDYGVPktrvGYJhowdkdn6nAowqLpt64RVFZSKrcqC_K9BS6K3fKDba8MewseJnAy25AqXo=w1280-h720-pd-k",
+
+  "length" : "9:18",
+
+  "title" : "ကခုန်နေတဲ့ မင်းသမီး",
+
+   "genre" : "",
+
+  "video" : "https://drive.google.com/file/d/1yI12q3bLmBK3r27AQeRHkDbvABJQLmpI/view"
+
+},
+
+{
+
+  "cover" : "https://lh5.googleusercontent.com/Zf-CvTX9PxiJF9_591gCUZaFoGEn0Kv2u95FqE79OKDjSV-Siv2dA37W5-WS4F5Ihg0cVqPWZaRSA2Oa3e-M=w1280-h720-pd-k",
+
+  "length" : "16:33",
+
+  "title" : "ကံကြမ္မာဖိနပ်",
+
+   "genre" : "",
+
+  "video" : "https://drive.google.com/file/d/1nzRGHxlhM7Jla4m7qkEXPhfic5pEXZTS/view"
+
+}
+,
 
 {
 
@@ -2135,408 +2536,6 @@
   "video" : "https://drive.google.com/file/d/1bhUu6AD9sK17koaU1OHSl6kZAPfAld67/view"
 
 }
-,
-
-
-{
-
-  "cover" : "https://lh4.googleusercontent.com/jmiGC7afRFqw2Yg4JFUHmO8K_UU1iqgpuqkhpHPWMLEcLLl35iQfyzmS4L7PaNctQ1TerSXCd-f7fBWv0aQ=w1920-h1080-pd-k",
-
-  "length" : "9:03",
-
-  "title" : "စိတ်အလိုမကျသောအဘိုးအို",
-
-   "genre" : "",
-
-  "video" : "https://drive.google.com/file/d/1nSiPpOXgf_w11FHA_cGXSCAmTbwSJFaB/view"
-
-},
-
-{
-
-  "cover" : "https://lh6.googleusercontent.com/-i_D0ZyvFmOfAP3WkCDO2v8ayRmQ9EdjbRT6w6H3GhVUB6z3yvyRCY3BktGEcMUvL0behFgEYtAV00wYCPM=w1280-h720-pd-k",
-
-  "length" : "13:50",
-
-  "title" : "စိတ်ဓာတ်တည်ကြည်ခိုင်မာတဲ့...",
-
-   "genre" : "",
-
-  "video" : "https://drive.google.com/file/d/14NfinE1iXkhEmYdiMkl3NeR0kiprem5h/view"
-
-},
-
-{
-
-  "cover" : "https://lh6.googleusercontent.com/5yksafPmpdlFzglSvl5IGq5x0Y0FYXPY20I7qpBEMUDkEmJg2ybtfmIm1H16zeedIypKsgRbA1Y5kgD5l0w=w1280-h720-pd-k",
-
-  "length" : "8:13",
-
-  "title" : "စိတ်ကောင်းရှိတဲ့နတ်ဆိုးမလေး",
-
-   "genre" : "",
-
-  "video" : "https://drive.google.com/file/d/1jiOf6qoKM_G2BX69J4ah2mI1aJRWax6j/view"
-
-},
-
-{
-
-  "cover" : "https://lh6.googleusercontent.com/NJThASEHcgnHb3SBPjH-aTeNleRj1Ay4gaLIEn6iHwn4q2fTCXoq2f6V-VNIt5IB22xWOSxb35tGujS4QHA=w1280-h720-pd-k",
-
-  "length" : "6:55",
-
-  "title" : "စိတ်ကြီးဝင်သောကြီးမိုက်",
-
-   "genre" : "",
-
-  "video" : "https://drive.google.com/file/d/1a9HhKebt_4TcsWVg4ERS7QcFRMhoqrXQ/view"
-
-},
-{
-
-  "cover" : "https://lh3.googleusercontent.com/ZaLPMCW91mpJr37kWr6ykNf3jL7GnNsBjU9Q-6lfGzbKJQ5rbC8jq2ZRiOwgTHzbqNhFkT2w3owBOQ05vsA=w1280-h720-pd-k",
-
-  "length" : "10:46",
-
-  "title" : "စနှိုးဝိုက်နှင့် နှင်းဆီပင်",
-
-   "genre" : "",
-
-  "video" : "https://drive.google.com/file/d/1ahj-pb3PU3dWoYM2PX2BZyfBmZ8AL8F3/view"
-
-},
-
-{
-
-  "cover" : "https://lh3.googleusercontent.com/T4MjetVyXiOGRZ2Je3JsHGyqvS-m_oAeU23V7vshBuESu4f61L6YblrHUpY7NwWe5DbmJAr8m5Ia_KjDk_o=w1280-h720-pd-k",
-
-  "length" : "11:11",
-
-  "title" : "စင်ဒရဲလား ",
-
-   "genre" : "",
-
-  "video" : "https://drive.google.com/file/d/1Jz4uKk_n4pExQA_yQg3XEXGcRY-BOzgY/view"
-
-},
-
-{
-
-  "cover" : "https://lh5.googleusercontent.com/QuDr_IlWv0UbVyh14usj_tAJiw-jU8XYwc78B6BKO4aPmzYH8rRkBE7AxFccSUMG8Xy_F0vKN62m09SrHiM=w1280-h720-pd-k",
-
-  "length" : "15:32",
-
-  "title" : "ငပေါလေးဂျက်",
-
-   "genre" : "",
-
-  "video" : "https://drive.google.com/file/d/1Cl_dj_IvgsrMxBXglOPniZLnWnzDmGzI/view"
-
-},
-
-{
-
-  "cover" : "https://lh6.googleusercontent.com/2c9uEy86Tl6y2ngkqr_4PsIxnnYPgwSt9AQm0nx_hDQ5skyDCgZN-7xe1b8H-w9zduHSsyE2b9bl2o1r-uw=w1280-h720-pd-k",
-
-  "length" : "11:33",
-
-  "title" : "ငန်းကျောင်းသူလေးပုံပြင်",
-
-   "genre" : "",
-
-  "video" : "https://drive.google.com/file/d/1Tppuo0MVyGNvRi5jWSqa_IOhgansAHIN/view"
-
-},
-
-{
-
-  "cover" : "https://lh6.googleusercontent.com/vZVcqldxzxgoPO2AYBNx8SCkW_SkWjIRt0T6Xr4AGmm7uX3unEWRSkNoaEmJSZYk82swvADOTl4N5WDYEg8=w1280-h720-pd-k",
-
-  "length" : "11:40",
-
-  "title" : "ဂုဏ်မောက်သောနှင်းဆီ",
-
-   "genre" : "",
-
-  "video" : "https://drive.google.com/file/d/115tKVwQtvRFfBGVqfs_RwScDRtyPI2QT/view"
-
-},{
-
-  "cover" : "https://lh6.googleusercontent.com/5A_k5imd8sdlftRGNZar270DbaemsrgUsUHxaNs-M8zw9OZS9-Lx2x6Oc1a88Qto-g778JfQ-HqtqKEYRbQ=w1280-h720-pd-k",
-
-  "length" : "12:30",
-
-  "title" : "ဂီတပညာရှင်(၃)ယောက် ",
-
-   "genre" : "",
-
-  "video" : "https://drive.google.com/file/d/1oQJ7MgSfHMf-5jIC0wndcMU8sMAeTjnb/view"
-
-},
-
-{
-
-  "cover" : "https://lh3.googleusercontent.com/Mi0gIoQZo2HH1ST5SpSfFtTOhCPDfSSKSzc0ongL5keJHW4G3YY_sutDi2FuDGyiaypXmymKU1JPwkkIodM=w1280-h720-pd-k",
-
-  "length" : "15:11",
-
-  "title" : "ဂါလီဗာရဲ့စွန့်စားခန်းများ",
-
-   "genre" : "",
-
-  "video" : "https://drive.google.com/file/d/1RHFrCy3YYLIkx8OA6g-6JO614kRovu7-/view"
-
-},
-
-{
-
-  "cover" : "https://lh3.googleusercontent.com/3bu9FN_aoC_Fa2e9vyEOvypr-uO_L9ZX5uPFR--9FR6gc2gPgNhRr3yqfAycP2XHxBMF3wXW-UbavSgUX5w=w1280-h720-pd-k",
-
-  "length" : "11:48",
-
-  "title" : "ဂျက်နဲ့ပဲပင်",
-
-   "genre" : "",
-
-  "video" : "https://drive.google.com/file/d/153xQPAz8e9YrLf_016NFq7sm_d6hhKAW/view"
-
-},
-
-{
-
-  "cover" : "https://lh4.googleusercontent.com/TsSyML3RL9en_d1GrRwxus16Zy2f1a3-kvWkIlOu2Qolv-QJJq4eYDHswST-pQp9aknXk9sERFEl8AWyuF8=w1280-h720-pd-k",
-
-  "length" : "9:02",
-
-  "title" : "ခွေးအိုကြီးဆူလတန်ရဲ့ပုံပြင်",
-
-   "genre" : "",
-
-  "video" : "https://drive.google.com/file/d/1CekQu_tSsoHqvCZIwJfWyEQFswSmfnKV/view"
-
-},
-
-{
-
-  "cover" : "https://lh4.googleusercontent.com/rPopQHlvzH2eE9FeNjc6bUUu47wMhrmbq81W07PtHyB0lcV_OweYAa1A4OzvQnrK6LL8oUMpE_l7k4jw5Gg=w1280-h720-pd-k",
-
-  "length" : "15:53",
-
-  "title" : "ခရီးသွားဖော်ကြီး",
-
-   "genre" : "",
-
-  "video" : "https://drive.google.com/file/d/1yqNCz8QXqq5qjP0x8NSAGizWziM7kU2N/view"
-
-},
-{
-
-  "cover" : "https://lh3.googleusercontent.com/mTeaYP4u94F0qraya7hXfubR0h2gYSbMGhMPE3uFt5MZk2VcSY-f8wR3V_5Jcp2KygX0qzgNZihgi6FsIPM=w1280-h720-pd-k",
-
-  "length" : "16:54",
-
-  "title" : "ခရီးသွား(၂)ယောက်",
-
-   "genre" : "",
-
-  "video" : "https://drive.google.com/file/d/1klYHCFWmeT3r-2c-EqneF4QxcMwXRisF/view"
-
-},
-
-{
-
-  "cover" : "https://lh5.googleusercontent.com/93NCord2-fr3zKPsV9PIGUcpZd4XyAQnMDoYohlF3UPP6BJts0lJ8ljSG6zrS6cd0-msXf0kecCxg2L7kOo=w1280-h720-pd-k",
-
-  "length" : "14:51",
-
-  "title" : "ချုံပုတ်ထဲက ကပ်စေးနှဲ ",
-
-   "genre" : "",
-
-  "video" : "https://drive.google.com/file/d/14H5A8qe5T-ZvSA2GUYAy-VR7WNqfJl2m/view"
-
-},
-
-{
-
-  "cover" : "https://lh3.googleusercontent.com/8syRkMPZu0TYw4PZD4-IK9c03OJvT-SjhPNdVZ7x8lJffj_dckX095ko1oFZTzhkfGb9epho7ony1iO0Ct4=w1280-h720-pd-k",
-
-  "length" : "13:56",
-
-  "title" : "ချို့ယွင်းချက်မရှိသောမင်းသားလေး ",
-
-   "genre" : "",
-
-  "video" : "https://drive.google.com/file/d/1DwAyIj_KeAwxMFsgUe0JKe2ktp3nQWQn/view"
-
-},
-
-{
-
-  "cover" : "https://lh5.googleusercontent.com/i23uwJnhHmmTtxtFeCd1ftt2bC6llj1BHugLJCe3t-dJjQ6O8nApmZR2-bdtXnavVfMj93ZgJhGFg8CeVUc=w1280-h720-pd-k",
-
-  "length" : "8:12",
-
-  "title" : " ချယ်ရီပင်ကြီးနဲ့ခရုငယ်",
-
-   "genre" : "",
-
-  "video" : "https://drive.google.com/file/d/1pE5nvU7cNTc9wy8LVQAScHWuESkPiypc/view"
-
-},
-
-{
-
-  "cover" : "https://lh6.googleusercontent.com/i3nKPlPg97KqsaujRzdAAmGVR5ZQRVsCtgPAa0dCAw5qxjqf8pfxDaBrL-VvSeh_cZqAKHuLbSjQu_WKGbg=w1280-h720-pd-k",
-
-  "length" : "4:24",
-
-  "title" : "ကိုဖိုးကြားနဲ့ ကျွဲလေးကောင်",
-
-   "genre" : "",
-
-  "video" : "https://drive.google.com/file/d/1RVx8oeGHO0kh3ml6xxQhMX4vwFcVwzaO/view"
-
-},{
-
-  "cover" : "https://lh5.googleusercontent.com/ZkCNBfqf5hAMJXZT00fVH7CVzEK48zk1T32f9KhmVYNIUn_rLeLWJs34fjYDuiN_GEcaQPuq1bzAJDdEtQQ=w1280-h720-pd-k",
-
-  "length" : "57:00",
-
-  "title" : "ကလေးများအတွက်အဘိုး‌ချော့တေး",
-
-   "genre" : "",
-
-  "video" : "https://drive.google.com/file/d/1xUNFUAIiVSZNziYkirflvdpVNXG3Jpyi/view"
-
-},
-
-{
-
-  "cover" : "https://lh6.googleusercontent.com/fo3N2s1Nyb0TACNQHIKAqTz0v05VKLq3JiuRcCb3IxT74k4Qqf2-xDzwHy-JXDBkrW-nwzBlD08qpiMCeV4=w1280-h720-pd-k",
-
-  "length" : "16:05",
-
-  "title" : "ကြောင်ကိုဘယ်သူခြူဆွဲ",
-
-   "genre" : "",
-
-  "video" : "https://drive.google.com/file/d/1ItLgdmSQ6_DPjSYPNYhS_pRwif63BVW7/view"
-
-},
-
-{
-
-  "cover" : "https://lh5.googleusercontent.com/w1VgK8TjEqVrxYfulWOPZIngsFz2D7Pb2rKCu9Plvb70DeZlrGZjkilAYfFbgxE4lGTeXCPBYhahpEUq-Yc=w1280-h720-pd-k",
-
-  "length" : "7:42",
-
-  "title" : "ကြိုးကြာနဲ့ဂဏာန်း",
-
-   "genre" : "",
-
-  "video" : "https://drive.google.com/file/d/1SI7Jq04s3TMzGygriNEb5VI-XEZReJs8/view"
-
-},
-
-{
-
-  "cover" : "https://lh6.googleusercontent.com/_Qz9vqyIay6yS-hYLqzG_haDgQhKRczpqP7EZBwvkHpwHhIb9cMVl2zG0K1HaCn5dxJVdm8n9BeHsuaOSZU=w1280-h720-pd-k",
-
-  "length" : "13:15",
-
-  "title" : "ကြွက်မင်းသမီးလေး",
-
-   "genre" : "",
-
-  "video" : "https://drive.google.com/file/d/193KXgpCCEZce837MKIag2MJHYOLZiHbZ/view"
-
-},
-
-{
-
-  "cover" : "https://lh6.googleusercontent.com/1G8c8F_eL_w0UVTfRkWZBVXKQT8_rL_AIuPI_oVAkvldPoGAlm-EF3EgO3NfjArhnGjS__iq46M6SLUiMvs=w1280-h720-pd-k",
-
-  "length" : "18:10",
-
-  "title" : "ကျေးဇူးသိတတ်တဲ့မင်းသားလေး",
-
-   "genre" : "",
-
-  "video" : "https://drive.google.com/file/d/1bs9NI4MRF5fSWmtjH_vU4UyK4wgcFK96/view"
-
-},
-{
-
-  "cover" : "https://lh3.googleusercontent.com/4iHhIhs1mkVaQa7n3bfwEr-BslwCmXahO03JhwEbmE_1FyhcJktXxAV5v9WtnGfUvb5skw0jvcvutJtFxP4=w1280-h720-pd-k",
-
-  "length" : "13:31",
-
-  "title" : "ကျီးကန်း(၇)ကောင်",
-
-   "genre" : "",
-
-  "video" : "https://drive.google.com/file/d/1Xkx7bHppaZEfHmtVYso_qKuV6UAYeu7x/view"
-
-},
-
-{
-
-  "cover" : "https://lh3.googleusercontent.com/t50ESxHvfSSKxAUZr_vcQZ3ImsbnTcG8r1HsLNKu_V0C7s-YE85_3QjaY3_vqAD-TafhUY1kwJ3_Uyf8oD4=w1280-h720-pd-k",
-
-  "length" : "11:20",
-
-  "title" : "ကဗျာဆရာနှင့်မင်းသမီးလေး ",
-
-   "genre" : "",
-
-  "video" : "https://drive.google.com/file/d/1gHJcVYxKTtjKfFK4zLbRqpyO2u_7BeWu/view"
-
-},
-
-{
-
-  "cover" : "https://lh6.googleusercontent.com/krYcMhe-LRVuRItuzI-zHY383pukCLuiWEz_JBtI6u3fI8m5Xrcf1SQl5Bw6tyrSj9r_tD-PxSTJQcB6lJY=w1280-h720-pd-k",
-
-  "length" :"10:33",
-
-  "title" : " ကန္တာရထဲကရေ",
-
-   "genre" : "",
-
-  "video" : "https://drive.google.com/file/d/1o0vRYReYL6qA0Nkie9IoSJlijgT0jWOQ/view"
-
-},
-
-{
-
-  "cover" : "https://lh6.googleusercontent.com/1mU2q0_9-VQdVpDYGVPktrvGYJhowdkdn6nAowqLpt64RVFZSKrcqC_K9BS6K3fKDba8MewseJnAy25AqXo=w1280-h720-pd-k",
-
-  "length" : "9:18",
-
-  "title" : "ကခုန်နေတဲ့ မင်းသမီး",
-
-   "genre" : "",
-
-  "video" : "https://drive.google.com/file/d/1yI12q3bLmBK3r27AQeRHkDbvABJQLmpI/view"
-
-},
-
-{
-
-  "cover" : "https://lh5.googleusercontent.com/Zf-CvTX9PxiJF9_591gCUZaFoGEn0Kv2u95FqE79OKDjSV-Siv2dA37W5-WS4F5Ihg0cVqPWZaRSA2Oa3e-M=w1280-h720-pd-k",
-
-  "length" : "16:33",
-
-  "title" : "ကံကြမ္မာဖိနပ်",
-
-   "genre" : "",
-
-  "video" : "https://drive.google.com/file/d/1nzRGHxlhM7Jla4m7qkEXPhfic5pEXZTS/view"
-
-}
-
 ]
 
 }
