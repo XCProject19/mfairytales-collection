@@ -4,32 +4,6 @@
      
 {
 
-  "cover" : "https://1.bp.blogspot.com/-Svtt84Ezq-E/XteBPwymIbI/AAAAAAAANvo/U6feP-LZh5MJt9tAncob0-VFgNFttkJcwCLcBGAsYHQ/s320/1-picsay.jpg",
-
-  "length" : "7:34",
-
-  "title" : "ကပ်ခွာ",
-
-   "genre" : "",
-
-  "video" : "https://drive.google.com/file/d/1AcORUNCm_7K7i3lYIAr4mMPCuq-hfGef/view"
-
-},{
-
-  "cover" : "ကိုယ်တွေ့စာအုပ်",
-
-  "length" : "6:48",
-
-  "title" : "https://1.bp.blogspot.com/-yo5-7ebLP-I/XteBSdmTOjI/AAAAAAAANwM/rv4vSd0PrC8VDVtStf_EZjnglceMb9yVACLcBGAsYHQ/s320/2-picsay.jpg",
-
-   "genre" : "",
-
-  "video" : "https://drive.google.com/file/d/19xbOgIqXU1Gx0eqTxK8yu5ZEvA1jvKIB/view"
-
-},
-
-{
-
   "cover" : "https://lh4.googleusercontent.com/jmiGC7afRFqw2Yg4JFUHmO8K_UU1iqgpuqkhpHPWMLEcLLl35iQfyzmS4L7PaNctQ1TerSXCd-f7fBWv0aQ=w1920-h1080-pd-k",
 
   "length" : "9:03",
@@ -3082,6 +3056,32 @@
    "genre" : "",
 
   "video" : "https://drive.google.com/file/d/144msXAWwJoIA_kee4MqahRnzIPcr7-go/view"
+
+}
+    ,
+    {
+
+  "cover" : "https://1.bp.blogspot.com/-Svtt84Ezq-E/XteBPwymIbI/AAAAAAAANvo/U6feP-LZh5MJt9tAncob0-VFgNFttkJcwCLcBGAsYHQ/s320/1-picsay.jpg",
+
+  "length" : "7:34",
+
+  "title" : "ကပ်ခွာ",
+
+   "genre" : "",
+
+  "video" : "https://drive.google.com/file/d/1AcORUNCm_7K7i3lYIAr4mMPCuq-hfGef/view"
+
+},{
+
+  "cover" : "ကိုယ်တွေ့စာအုပ်",
+
+  "length" : "6:48",
+
+  "title" : "https://1.bp.blogspot.com/-yo5-7ebLP-I/XteBSdmTOjI/AAAAAAAANwM/rv4vSd0PrC8VDVtStf_EZjnglceMb9yVACLcBGAsYHQ/s320/2-picsay.jpg",
+
+   "genre" : "",
+
+  "video" : "https://drive.google.com/file/d/19xbOgIqXU1Gx0eqTxK8yu5ZEvA1jvKIB/view"
 
 }
 ]
