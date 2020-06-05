@@ -1,7 +1,45 @@
 {
 
   "allmovie" : [
-     
+    {
+
+  "cover" : "https://1.bp.blogspot.com/-c6JuoSxe-p0/Xtot_jX8p1I/AAAAAAAAONI/bohBIXbC3c0RgGsPbDo-SvaTw5zJ9eXNgCLcBGAsYHQ/s320/2.jpg",
+
+  "length" : "8:24",
+
+  "title" : "အလုပ္ႀကိဳးစားတဲ့ မိုးစက္ကေလးမ်ား",
+
+   "genre" : "",
+
+  "video" : "https://drive.google.com/file/d/1A0I-4idQCvabxKMBIrRO-bKIWkcPRTOz/view"
+
+},
+{
+
+  "cover" : "https://1.bp.blogspot.com/-XZ3WjcN-xmI/Xtot_hYmhKI/AAAAAAAAONQ/_940cZYDArEmyqyGUHk8usaWDEYnJBu9gCLcBGAsYHQ/s320/1.jpg",
+
+  "length" : "12:39",
+
+  "title" : "လှိမ့်နေသော ဖရုံသီး ",
+
+   "genre" : "",
+
+  "video" : "https://drive.google.com/file/d/1FPAxXGo_P6kWoQk1ONJT5Mp5J_T8Yd1q/view"
+
+},
+{
+
+  "cover" : "https://1.bp.blogspot.com/-YH1WosRKFYc/Xtot_rSqrFI/AAAAAAAAONM/P5YUngB0KAUCtP1DpAMYsQLjzro_FoXdwCLcBGAsYHQ/s320/3.jpg",
+
+  "length" : "12:26",
+
+  "title" : "မှော် ဖဲဘရိုကိတ်ပိတ်စလေး _",
+
+   "genre" : "",
+
+  "video" : "https://drive.google.com/file/d/1XD4c2ZLsOHQG7dhmGQLWdxmZbsOxW_CA/view"
+
+},   
 {
 
   "cover" : "https://lh4.googleusercontent.com/jmiGC7afRFqw2Yg4JFUHmO8K_UU1iqgpuqkhpHPWMLEcLLl35iQfyzmS4L7PaNctQ1TerSXCd-f7fBWv0aQ=w1920-h1080-pd-k",
